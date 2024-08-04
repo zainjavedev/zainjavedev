@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zain</h1>
-<h3 align="center">Software Engineer who likes to build that helps people</h3>
+<h3 align="center">Software Engineer who likes to build stuff that helps people</h3>
 
 - 🔭 I’m currently working on [AlfaazArchivez](https://alfaaz-archivez.netlify.app/)
 
