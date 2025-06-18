@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [AlfaazArchivez](https://alfaaz-archivez.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://zainjaved.netlify.app/](https://zainjaved.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://zainjaved.netlify.app/](https://zain-javed.netlify.app/)
 
 - 📝 I regularly write articles on [zaintech.com](zaintech.com)
 
