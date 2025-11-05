@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zain</h1>
 <h3 align="center">Software Engineer who likes to build stuff that helps people</h3>
 
-- 🔭 I’m currently working on [AlfaazArchivez](https://alfaaz-archivez.netlify.app/)
+- 🔭 I’m currently working on [Tasaweers](https://tasaweers.com/)
 
 - 👨‍💻 All of my projects are available at [https://zainjaved.netlify.app/](https://zain-javed.netlify.app/)
 
